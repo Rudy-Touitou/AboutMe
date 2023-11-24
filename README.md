@@ -6,5 +6,5 @@
 
 • 📚 Stacks : HTML / CSS / JavaScript / React / Node
 
-• 📫 How to reach me: -> touitou.rudy@gmail.com
+• 📫 How to reach me: -> https://rudytouitou-portfolio.netlify.app
 
