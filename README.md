@@ -1,6 +1,6 @@
 • 🙋‍♂️ Heey, I’m Rudy
 
-• 👀 I’m interested in Web Development
+• 👀 I’m interested in Web Development, UI/UX and Web Design
 
 • 🌱 I’m currently learning the basics of being FullStack
 
