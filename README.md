@@ -2,9 +2,9 @@
 
 • 👀 I’m interested in Web Development, UI/UX and Web Design
 
-• 🌱 I’m currently looking for an apprenticeship in web development
+• 🌱 Actually learning and developing skills at OFFOLIO
 
-• 📚 Stacks : HTML / CSS / JavaScript / React / Node.js
+• 📚 Stacks : HTML / CSS / JavaScript / React / Node.js / JAVA
 
 • 📫 How to reach me: -> https://rudytouitou-portfolio.netlify.app
 
