@@ -2,7 +2,7 @@
 
 • 👀 I’m interested in Web Development, UI/UX and Web Design
 
-• 🌱 Actually learning and developing skills at OFFOLIO
+• 🌱 Actually learning and developing skills at [OFFOLIO](https://www.offolio.com/)
 
 • 📚 Stacks : HTML / CSS / JavaScript / React / Node.js / JAVA
 
